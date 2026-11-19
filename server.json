@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.adflitz/adflitz",
+  "title": "Adflitz",
+  "description": "Connect your AI to Meta, Google and LinkedIn ads: read stats, draft changes, publish on approval.",
+  "version": "1.0.0",
+  "websiteUrl": "https://adflitz.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://adflitz.com/adflitz-logo-400.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "400x400"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://adflitz.com/api/mcp"
+    }
+  ]
+}

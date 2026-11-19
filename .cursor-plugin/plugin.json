@@ -1,0 +1,10 @@
+{
+  "name": "adflitz",
+  "description": "Connect your AI to Meta, Google and LinkedIn ad accounts: read performance, draft changes, publish after approval.",
+  "version": "1.0.0",
+  "author": { "name": "PEBU GmbH", "email": "contact@adflitz.com" },
+  "homepage": "https://adflitz.com",
+  "repository": "https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp",
+  "keywords": ["ads", "advertising", "meta-ads", "google-ads", "linkedin-ads", "marketing", "mcp"],
+  "logo": "assets/logo.png"
+}

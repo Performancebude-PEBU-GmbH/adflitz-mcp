@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "adflitz": {
+      "url": "https://adflitz.com/api/mcp"
+    }
+  }
+}
