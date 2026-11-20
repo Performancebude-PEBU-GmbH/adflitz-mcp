@@ -1,6 +1,6 @@
-# Adflitz MCP connector
+# Adflitz MCP: AI ad manager for Meta Ads, Google Ads, LinkedIn Ads, TikTok Ads and ChatGPT Ads
 
-[Adflitz](https://adflitz.com) connects your AI assistant to your paid-ads accounts (Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft Ads). Your assistant reads performance, files change drafts, and a person approves them in Adflitz before anything is published.
+[Adflitz](https://adflitz.com) is an AI ad manager and ads MCP server for PPC and performance marketing. It connects your AI assistant to your paid-ads accounts (Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft Ads). Your assistant handles ad reporting and campaign management, automates routine optimizations with autopilot rules, files change drafts, and a person approves them in Adflitz before anything is published.
 
 This repository contains the client configuration only. The server is hosted by Adflitz:
 

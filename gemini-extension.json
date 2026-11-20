@@ -1,7 +1,7 @@
 {
   "name": "adflitz",
   "version": "1.0.0",
-  "description": "Connect Gemini CLI to Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft ad accounts through Adflitz: read performance, draft changes, publish after approval.",
+  "description": "AI ad manager for Gemini CLI: manage Meta Ads (Facebook Ads), Google Ads, LinkedIn Ads, TikTok Ads, ChatGPT Ads and more through an ads MCP server. Ad reporting, campaign management and autopilot, with every change published only after approval.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
     "adflitz": {

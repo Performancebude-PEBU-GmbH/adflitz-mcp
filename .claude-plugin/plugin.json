@@ -1,6 +1,6 @@
 {
   "name": "adflitz",
-  "description": "Connect Claude to Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft ad accounts through Adflitz: read performance, draft changes, publish after approval.",
+  "description": "AI ad manager for Claude: manage Meta Ads (Facebook Ads), Google Ads, LinkedIn Ads, TikTok Ads, ChatGPT Ads and more through an ads MCP server. Ad reporting, campaign management and autopilot, with every change published only after approval.",
   "version": "1.0.0",
   "author": {
     "name": "PEBU GmbH",
@@ -9,11 +9,20 @@
   "homepage": "https://adflitz.com/docs/mcp",
   "repository": "https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp",
   "keywords": [
-    "ads",
-    "advertising",
-    "meta-ads",
-    "google-ads",
-    "linkedin-ads",
+    "AI ad manager",
+    "ads MCP",
+    "Meta Ads",
+    "Facebook Ads",
+    "Google Ads",
+    "LinkedIn Ads",
+    "TikTok Ads",
+    "ChatGPT Ads",
+    "ad automation",
+    "campaign management",
+    "PPC",
+    "performance marketing",
+    "ad reporting",
+    "autopilot",
     "mcp"
   ],
   "license": "MIT"
