@@ -2,6 +2,10 @@
 
 [Adflitz](https://adflitz.com) is an AI ad manager and ads MCP server for PPC and performance marketing. It connects your AI assistant to your paid-ads accounts (Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft Ads). Your assistant handles ad reporting and campaign management, automates routine optimizations with autopilot rules, files change drafts, and a person approves them in Adflitz before anything is published.
 
+[![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=adflitz&config=eyJ1cmwiOiJodHRwczovL2FkZmxpdHouY29tL2FwaS9tY3AifQ%3D%3D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Adflitz-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=adflitz&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fadflitz.com%2Fapi%2Fmcp%22%7D)
+[![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-Install_Adflitz-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=adflitz&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fadflitz.com%2Fapi%2Fmcp%22%7D)
+
 This repository contains the client configuration only. The server is hosted by Adflitz:
 
 | | |
@@ -24,7 +28,7 @@ This repository contains the client configuration only. The server is hosted by 
 
 **ChatGPT:** Settings → Apps → Create (developer mode) → MCP server URL `https://adflitz.com/api/mcp`, authentication OAuth.
 
-**Cursor:** add to `~/.cursor/mcp.json` (or install this repository as a plugin):
+**Cursor:** [one-click install](https://cursor.com/en/install-mcp?name=adflitz&config=eyJ1cmwiOiJodHRwczovL2FkZmxpdHouY29tL2FwaS9tY3AifQ%3D%3D) (deep link: `cursor://anysphere.cursor-deeplink/mcp/install?name=adflitz&config=eyJ1cmwiOiJodHRwczovL2FkZmxpdHouY29tL2FwaS9tY3AifQ%3D%3D`), or add to `~/.cursor/mcp.json` (or install this repository as a plugin):
 
 ```json
 { "mcpServers": { "adflitz": { "url": "https://adflitz.com/api/mcp" } } }
@@ -32,7 +36,9 @@ This repository contains the client configuration only. The server is hosted by 
 
 **Gemini CLI:** `gemini extensions install https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp`
 
-**Grok, Perplexity, Mistral Le Chat, VS Code / Copilot:** add a custom MCP connector with the URL above.
+**VS Code / Copilot:** [one-click install](https://vscode.dev/redirect/mcp/install?name=adflitz&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fadflitz.com%2Fapi%2Fmcp%22%7D) (deep link: `vscode:mcp/install?%7B%22name%22%3A%22adflitz%22%2C%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fadflitz.com%2Fapi%2Fmcp%22%7D`), or add an HTTP MCP server with the URL above.
+
+**Grok, Perplexity, Mistral Le Chat:** add a custom MCP connector with the URL above.
 
 ## Tools
 

@@ -1,7 +1,7 @@
 {
   "name": "adflitz",
   "description": "AI ad manager for Claude: manage Meta Ads (Facebook Ads), Google Ads, LinkedIn Ads, TikTok Ads, ChatGPT Ads and more through an ads MCP server. Ad reporting, campaign management and autopilot, with every change published only after approval.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "PEBU GmbH",
     "email": "contact@adflitz.com"

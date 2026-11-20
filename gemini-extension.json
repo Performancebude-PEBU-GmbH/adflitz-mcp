@@ -1,6 +1,6 @@
 {
   "name": "adflitz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI ad manager for Gemini CLI: manage Meta Ads (Facebook Ads), Google Ads, LinkedIn Ads, TikTok Ads, ChatGPT Ads and more through an ads MCP server. Ad reporting, campaign management and autopilot, with every change published only after approval.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
