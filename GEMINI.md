@@ -1,6 +1,6 @@
 # Adflitz
 
-Adflitz connects this assistant to the user's paid-ads accounts (Meta, Google, LinkedIn).
+Adflitz connects this assistant to the user's paid-ads accounts (Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X, Microsoft Ads).
 
 - Start with `adflitz_overview` to learn the workspace, projects and permissions.
 - Read tools (`adflitz_list_campaigns`, `adflitz_get_report`, ...) never change anything.

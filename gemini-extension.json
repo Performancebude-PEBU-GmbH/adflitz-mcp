@@ -1,11 +1,13 @@
 {
   "name": "adflitz",
   "version": "1.0.0",
-  "description": "Connect Gemini CLI to Meta, Google and LinkedIn ad accounts through Adflitz: read performance, draft changes, publish after approval.",
+  "description": "Connect Gemini CLI to Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft ad accounts through Adflitz: read performance, draft changes, publish after approval.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
     "adflitz": {
-      "httpUrl": "https://adflitz.com/api/mcp"
+      "url": "https://adflitz.com/api/mcp",
+      "type": "http"
     }
-  }
+  },
+  "license": "MIT"
 }

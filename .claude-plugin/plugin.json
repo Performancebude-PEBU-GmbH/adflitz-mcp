@@ -1,9 +1,20 @@
 {
   "name": "adflitz",
-  "description": "Connect Claude to Meta, Google and LinkedIn ad accounts through Adflitz: read performance, draft changes, publish after approval.",
+  "description": "Connect Claude to Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft ad accounts through Adflitz: read performance, draft changes, publish after approval.",
   "version": "1.0.0",
-  "author": { "name": "PEBU GmbH", "email": "contact@adflitz.com" },
+  "author": {
+    "name": "PEBU GmbH",
+    "email": "contact@adflitz.com"
+  },
   "homepage": "https://adflitz.com/docs/mcp",
   "repository": "https://github.com/Performancebude-PEBU-GmbH/adflitz-mcp",
-  "keywords": ["ads", "advertising", "meta-ads", "google-ads", "linkedin-ads", "mcp"]
+  "keywords": [
+    "ads",
+    "advertising",
+    "meta-ads",
+    "google-ads",
+    "linkedin-ads",
+    "mcp"
+  ],
+  "license": "MIT"
 }

@@ -1,6 +1,6 @@
 # Adflitz MCP connector
 
-[Adflitz](https://adflitz.com) connects your AI assistant to your paid-ads accounts (Meta, Google and LinkedIn). Your assistant reads performance, files change drafts, and a person approves them in Adflitz before anything is published.
+[Adflitz](https://adflitz.com) connects your AI assistant to your paid-ads accounts (Meta, Google Ads, LinkedIn, ChatGPT Ads, TikTok, Pinterest, Snapchat, Reddit, X and Microsoft Ads). Your assistant reads performance, files change drafts, and a person approves them in Adflitz before anything is published.
 
 This repository contains the client configuration only. The server is hosted by Adflitz:
 
@@ -12,6 +12,8 @@ This repository contains the client configuration only. The server is hosted by 
 | Docs | https://adflitz.com/docs/mcp |
 | Server card | https://adflitz.com/.well-known/mcp/server-card.json |
 | Privacy policy | https://adflitz.com/privacy |
+| Terms of service | https://adflitz.com/terms |
+| License | [MIT](LICENSE) |
 | Support | contact@adflitz.com |
 
 ## Add it to your client
@@ -36,4 +38,6 @@ This repository contains the client configuration only. The server is hosted by 
 
 26 tools over OAuth: workspace overview, projects, connection status, ad accounts, campaigns, ad groups, ads, performance reports, platform options, drafts (create, list, get, approve, reject, publish), competitor ad library search, swipe-file boards, activity feed and autopilot rules. Every tool declares `readOnlyHint`, `destructiveHint` and `openWorldHint`. All changes go through drafts and approval. See the [server card](https://adflitz.com/.well-known/mcp/server-card.json) for the full list.
 
-© PEBU GmbH. Adflitz is a service of PEBU GmbH.
+Agents installing Adflitz: see [llms-install.md](llms-install.md).
+
+Licensed under the [MIT License](LICENSE). © 2026 PEBU GmbH. Adflitz is a service of PEBU GmbH. [Privacy](https://adflitz.com/privacy) · [Terms](https://adflitz.com/terms)
